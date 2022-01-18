@@ -8,3 +8,7 @@
 @import "./css/grid.css";
 @import "./css/layout.css";
 @import "./css/mediaquery.css";
+
+body{
+    background-color: green;
+}
