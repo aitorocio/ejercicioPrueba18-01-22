@@ -9,6 +9,15 @@
 @import "./css/layout.css";
 @import "./css/mediaquery.css";
 
-body{
-    background-color: green;
+.izquierda{
+    float: left;
+    width: 45%;
+    height: 100%;
+    background-color: blue;
+}
+
+.derecha{
+    width: 55%;
+    height: 100%;
+    background-color: yellow;
 }
