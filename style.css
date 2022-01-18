@@ -10,14 +10,20 @@
 @import "./css/mediaquery.css";
 
 .izquierda{
-    float: left;
-    width: 45%;
     height: 100%;
-    background-color: blue;
+    width: 45%;
+    background-color: #FFCC47;
 }
-
-.derecha{
+.banner{
+    height: 100%;
     width: 55%;
     height: 100%;
-    background-color: yellow;
+}
+a{
+    width: 81.43px;
+    height: 49px;
+    left: 445px;
+    top: 714px;
+    color: red;
+
 }
