@@ -17,6 +17,7 @@
     display:flex;
     flex-direction: column;
     height: 100vw ;
+    width: 45vw;
 }
 .derecha{
     width: 100vw;
