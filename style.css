@@ -9,23 +9,15 @@
 @import "./css/layout.css";
 @import "./css/mediaquery.css";
 
+.seccion_general{
+    display:flex;
+    flex-direction: row;
+}
 .izquierda{
-    float: left;
-    height: 100%;
-    width: 45%;
-    background-color: #FFCC47;
+    display:flex;
+    flex-direction: column;
+    height: 100vw ;
 }
-.banner{
-    float: right;
-    height: 100%;
-    width: 55%;
-    height: 100%;
-}
-a{
-    width: 81.43px;
-    height: 49px;
-    left: 445px;
-    top: 714px;
-    background-color: red;
-
+.derecha{
+    width: 100vw;
 }
